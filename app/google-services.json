@@ -1,0 +1,6 @@
+{
+  "importante": {
+    "para que su proyecto funcione": "en este archivo deben colocar su google-services.json generado en firebase",
+    "no compartir este archivo": "con nadie"
+  }
+}
