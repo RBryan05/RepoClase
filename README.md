@@ -21,5 +21,4 @@ ic_img_perfil.xml
 
 <p align="left">Estos son los archivos que deben actualizar en su proyecto para mantenerlo al día.</p>
 
-<p align="left">Si prefieren, pueden descargar el repositorio completo. En ese caso, recuerden adaptar el archivo</p>
-<p align="left"><code>google-services.json</code> a la configuración de su proyecto en Firebase, de lo contrario no funcionará correctamente.</p>
+<p align="left">Si prefieren, pueden descargar el repositorio completo. En ese caso, recuerden adaptar el archivo <code>google-services.json</code> a la configuración de su proyecto en Firebase, de lo contrario no funcionará correctamente.</p>
